@@ -1,5 +1,5 @@
 # SQLHomeworkP2
-
+```sql
 mysql> SELECT COUNT(*) AS USACitiesCount
     -> FROM city
     -> WHERE CountryCode = 'USA';
